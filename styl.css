@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ds{
+    margin: 50px 40% 40%;
+    box-shadow: 1px 0.5 10px rgb(rgb(0, 0, 0), green, blue);
+    background-color: brown;
+}
+div{
+    margin-top: 25px;
+
+}
+.p1{
+    color: #ffffffff;
+    text-align: center;
+    
+}
+p{
+    padding: 10px 15px 15px;
+    box-shadow: 1px,1px,1px rgb( rgb(0, 0, 0));
+    text-align: center;
+}
+body{
+    background:url(22-kosmos-oboi-kartinki-foto-1920x1080.jpg)
+    
+}
+.square{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 5px solid black; 
+    text-align: center;
+}
